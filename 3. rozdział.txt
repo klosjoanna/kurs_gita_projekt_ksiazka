@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 branches - gałęzie
 
 git branch poprawki_redaktorskie  <-- dodaję branch
@@ -20,4 +21,15 @@ git log
 
 ZAPISUJE PO ZMIANACH
 
+=======
+Gałęzie (branches)
+
+git branch poprawki_redaktorskie   <-- dodajemy gałąź
+
+git switch poprawki_redaktorskie   <-- przełączanie na inną gałąź, branch
+
+git status
+
+git diff  <-- pokaż różnice, np. po zmianach na branchach
+>>>>>>> poprawki_redaktorskie
 

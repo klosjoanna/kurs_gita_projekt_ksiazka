@@ -1,1 +1,10 @@
-xxx
+Gałęzie (branches)
+
+git branch poprawki_redaktorskie   <-- dodajemy gałąź
+
+git switch poprawki_redaktorskie   <-- przełączanie na inną gałąź, branch
+
+git status
+
+git diff  <-- pokaż różnice, np. po zmianach na branchach
+

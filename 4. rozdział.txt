@@ -1,0 +1,7 @@
+MERGOWANIE - scalanie gałęzi
+
+git branch --> sprawdzam gałęzie, branche
+
+sprawdzam na jakiej jestem gałęzi git status
+
+git merge -->

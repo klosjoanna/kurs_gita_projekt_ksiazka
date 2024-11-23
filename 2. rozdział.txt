@@ -1,0 +1,1 @@
+dodawanie wszystkich plików z katalogu:      git add .

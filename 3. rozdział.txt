@@ -1,1 +1,23 @@
-xxx
+branches - gałęzie
+
+git branch poprawki_redaktorskie  <-- dodaję branch
+
+git status
+
+git switch poprawki_redaktorskie <-- zmieniam HEAD na innego brancha np poprawki_redaktorskie / albo na master potem
+
+git status
+
+git diff <-- pokazuje różnice, zmiany przed po
+
+git status
+
+git commit -m 'xxxxx'
+
+git status
+ 
+git log
+
+ZAPISUJE PO ZMIANACH
+
+

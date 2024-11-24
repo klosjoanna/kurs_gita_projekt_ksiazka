@@ -1,0 +1,10 @@
+git pull == zrzuca z Githuba na kompa
+
+#Po stworzeniu repozytorium:
+
+git init
+git add README.md
+git commit -m 'First commit'
+git branch -M main == trzeba przejść zawsze na MAIN
+git remote add origin https................
+git push -u origin main == z kompa na Githuba

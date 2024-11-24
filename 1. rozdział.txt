@@ -2,4 +2,4 @@ git status
 git add '.\blabla'
 git status
 git commit -m 'Dodany pierwszy rozdział'
-git log
+git log   

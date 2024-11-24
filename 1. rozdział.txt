@@ -3,3 +3,6 @@ git add '.\blabla'
 git status
 git commit -m 'Dodany pierwszy rozdział'
 git log   
+
+otiweranie pliku(txt) z powershella:      
+notepad.exe '\.nazwa.txt'

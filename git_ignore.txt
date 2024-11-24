@@ -4,5 +4,10 @@ notepad.exe .gitignore == tworze
 mv .\.gitignore.txt .gitignore == zmieniam format pliku
 
 w tym pliku txt wpisuje plik który ma ignorować
+np.
+wstęp.txt == plik tekstowy z notepada
+test/ == folder 'test'
+==============================
+mkdir == tworze folder
 
 

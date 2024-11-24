@@ -1,0 +1,8 @@
+#Aby stworzyć plik, który będzie ignorowany przez repozytoria Git.
+
+notepad.exe .gitignore == tworze 
+mv .\.gitignore.txt .gitignore == zmieniam format pliku
+
+w tym pliku txt wpisuje plik który ma ignorować
+
+
